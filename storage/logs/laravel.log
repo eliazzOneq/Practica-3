@@ -1,0 +1,8 @@
+[2026-06-26 02:25:44] local.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 60 seconds exceeded at C:/Users/hp/practica9-auth/vendor/doctrine/inflector/src/RulesetInflector.php:20)
+[stacktrace]
+#0 {main}
+"} 
+[2026-06-27 01:50:05] local.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 60 seconds exceeded at C:/Users/hp/practica9-auth/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:9)
+[stacktrace]
+#0 {main}
+"} 
